@@ -49,3 +49,8 @@ Smooth scrolling behavior is enabled for a better browsing experience.
 Conclusion:
 This task was an excellent opportunity to practice front-end skills and create a functional and presentable portfolio. It not only helped me in organizing my past projects in one place but also gave me a practical understanding of how to build user-friendly interfaces using just HTML and CSS. This portfolio can be used in job applications or internship opportunities, and it serves as the foundation for a more dynamic website in the future.
 
+OUTPUT:
+
+![portfolio](https://github.com/user-attachments/assets/88aa4dd4-301e-4945-8e11-18dc2626529a)
+
+
